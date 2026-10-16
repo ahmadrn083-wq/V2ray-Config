@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://humanity@203.202.232.211:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#@Shh_Proxy-New⁵
+trojan://humanity@209.38.225.64:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇩🇪194871 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@209.38.37.132:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱194896 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#97
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@i10VPN⁸
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 💚
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@configprxy
@@ -498,8 +503,3 @@ vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.109:443?path=/ws/Default&s
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.109:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=srv-59626b-f0a855-production.up.railway.app&fp=chrome&type=ws&sni=srv-59626b-f0a855-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.110:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=core-1d94b4-5a2002-production.up.railway.app&fp=chrome&type=ws&sni=core-1d94b4-5a2002-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.110:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=service-f437d6-66e56a-production.up.railway.app&fp=chrome&type=ws&sni=service-f437d6-66e56a-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.113:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=app-07f7db-36f466-production.up.railway.app&fp=chrome&type=ws&sni=app-07f7db-36f466-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.113:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=service-c196fc-ec4744-production.up.railway.app&fp=chrome&type=ws&sni=service-c196fc-ec4744-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.114:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=net-2d40b1-748d51-production.up.railway.app&fp=chrome&type=ws&sni=net-2d40b1-748d51-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.141:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=api-ro64rg-47fdet7-bfab5a-production.up.railway.app&fp=chrome&type=ws&sni=api-ro64rg-47fdet7-bfab5a-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.142:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=app-rtfch5546fx-fdt5-ftyyfg64-f9788a-production.up.railway.app&fp=chrome&type=ws&sni=app-rtfch5546fx-fdt5-ftyyfg64-f9788a-production.up.railway.app#All Operators @MaSTeRSeRVeR1
