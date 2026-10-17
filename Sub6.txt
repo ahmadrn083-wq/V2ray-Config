@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3db6eb7e-c548-11f1-9902-a337233c6cda@swe.wizard.select:443?security=reality&encryption=none&pbk=Sikc1gu5t_uwitf1xTTChP9tpT_sjY530p2tioHbmz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swe.wizard.select&sid=3b20e438da99#@ICV2RAY
 vless://3debd727-ec60-410c-8011-9e77313ff48c@static.146.179.233.167.clients.your-server.de:443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=static.150.203.75.5.clients.your-server.de&fp=chrome&alpn=h2,http/1.1#🇩🇪194050 | ⚡️Telegram = t.me/v2ray_configs_pools
 vless://3debd727-ec60-410c-8011-9e77313ff48c@static.47.38.13.49.clients.your-server.de:443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=static.99.149.107.91.clients.your-server.de&fp=chrome&alpn=h2,http/1.1#🇩🇪194049 | ⚡️Telegram = t.me/v2ray_configs_pools
 vless://3ed41dfc-0d38-4379-a470-c815673dc504@logs.m2ip-video.cloud:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apisynccloud.info&sid=44103f58#Free x742 @Outline_Vpn
@@ -503,3 +502,4 @@ vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&securit
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#🇪🇺  👉 ‼️📱 VPN для Telegram ‼️👈 - @Raydikalx
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#👇 Подключите, чтобы зайти в TG 👇 - @Raydikalx
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#🚨 Ваша подписка истекла - @Raydikalx
+vless://4f466863-b6c5-4fdc-955e-7a601c18d89a@217.26.30.125:7443?mode=gun&security=reality&encryption=none&pbk=EuRD8QK-uL3uQqnQ_IC2Ybj7v8feXRxCiEaXYjhHx3c&fp=chrome&type=grpc&sni=yahoo.com#@IRAN_V2RAY1
