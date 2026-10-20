@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2rayLs | Telegram ✅️
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
+trojan://humanity@www.speedtest.net:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@bored_vpn
+trojan://humanity@www.speedtest.net:443?path=/assignment?ed#Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 😀
+trojan://humanity@www.speedtest.net:443?path=/assignment?ed#Telegram---mehrosaboran&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#@mehrosaboran
+trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#Telegram : @Daily_Configs
 trojan://miTivpn@151.101.56.90:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
 trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@v2ray313 کانالمون ❤️
@@ -497,9 +503,3 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#[106633]
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?path=/v1&security=none&encryption=none&type=ws#@hopev2ray🤎
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?path=/v1&security=none&encryption=none&type=ws#[106634]
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-2.starsping.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=a88550765b9956ee#@FarazV2ray
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-2.starsping.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=a88550765b9956ee#[106635]
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-2.starsping.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=a88550765b9956ee#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
-vless://15793ebe-6fb6-09ac-9a9c-746c31a79990@multipanel-production-f449.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-f449.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/15793ebe-6fb6-09ac-9a9c-746c31a79990&host=multipanel-production-f449.up.railway.app#[106636]
-vless://15793ebe-6fb6-09ac-9a9c-746c31a79990@multipanel-production-f449.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-f449.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/15793ebe-6fb6-09ac-9a9c-746c31a79990&host=multipanel-production-f449.up.railway.app#کانال @FaultPass
-vless://15e83ced-7544-422e-863d-deafe29a1dbe@144.31.237.77:443?security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=635a76c25a4b1820#@leviconfigs🪐-2
