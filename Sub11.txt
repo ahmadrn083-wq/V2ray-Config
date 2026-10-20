@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.157:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇨🇦139876 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@leviconfigs🪐-10
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh#TELEGRAM-leviconfigs_leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@leviconfigs🪐-7
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-leviconfigs?ed=2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@leviconfigs🪐-25
@@ -503,3 +502,4 @@ vless://dd3b59f1-1fa8-44f2-b188-45d8929a08ae@www.speedtest.net:8443?path=/sg-mel
 vless://dd7a9688-5f80-4de3-9e58-7d584a2ec4e9@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️🫯
 vless://ddb4b81b-3c9d-43b9-b854-372cfb5f2bd3@freeiran.lookanet.app:443?mode=auto&path=/php-index&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd-hardcore.esportplusnews.top#@KAFING_2
 vless://ddb52744-939f-49bf-b79c-a40d90aefc08@tu.parsturbo5.ir:3621?mode=gun&security=reality&encryption=none&authority=194.5.207.192&pbk=d_Xf0DMnTEh2Mxh3_qF73BuhpSjqr7QYQs00mbI88R4&fp=chrome&type=grpc&sni=google.com&sid=9235fd30b1f7eb4d#@meliproxyy
+vless://ddb52744-939f-49bf-b79c-a40d90aefc08@tu.parsturbo5.ir:3621?mode=gun&security=reality&encryption=none&authority=194.5.207.192&pbk=d_Xf0DMnTEh2Mxh3_qF73BuhpSjqr7QYQs00mbI88R4&fp=chrome&type=grpc&sni=google.com&sid=9235fd30b1f7eb4d#vpnsal
