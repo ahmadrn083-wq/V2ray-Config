@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#@FarazV2ray
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#@V2raySaman
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#@filembad
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#@irdusti(41)🇸🇬²
@@ -503,3 +502,4 @@ vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2053?mode=auto&path=/&s
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2083?mode=auto&path=/archive/gawdfaGA2faG@$!32ga&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=salavati.shompolexy.shop&type=xhttp#@fastkanfig 1
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=64.49.13.77#@fastkanfig 2
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8080?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#@fastkanfig 4
+vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8443?path=/&security=none&encryption=none&host=play.google.com&type=ws#@fastkanfig 5
