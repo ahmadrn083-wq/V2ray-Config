@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://SoonTeam @de.im-soon.com:3443?mode=auto&path=/Telegram-Join@SoonTeam&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=hSmC_oFWVZQ7dkhnC0UVb-3eWk-9qAO0VjG21vBnlDI&fp=chrome&spx=/8209b7b9a6027cc&type=xhttp&sni=upload.google.com&sid=07#[76542] - Telegram : @V2All
-vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
-vless://Source_VPNCUSTOMIZE@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://TeLEgRAM-ID-conf0088@account.datagrid.cl:8443?security=reality&encryption=none&pbk=8m9MBxGrlPxtC4cYpEkEQsUHt5sHf9EBzb2DkOn2niw&headerType=none&fp=chrome&spx=/01f9511ab12d9f0&type=tcp&flow=xtls-rprx-vision&sni=nbg1-speed.hetzner.com&sid=ed50ca#@bored_vpn
 vless://Tel--------MiMiTDL--------@91.107.174.30:34952?path=/index.php&security=&encryption=mlkem768x25519plus.native.0rtt.Jd4nZH0Y_uQQAtMHXntkuNdFw7duZ29SSv3phU04mQo&host=dynu.com&type=ws#@v2ray313 کانالمون 🦋
 vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
@@ -503,3 +500,6 @@ vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@V2ray_Alpha😝 1
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@v2ray313 کانالمون 🚀
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@ICV2RAY
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@MDvpnSEC 🚨
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@Nexus_Panell چنل تلگرام
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@V2ray_Alpha🍖 2
