@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-6
+vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://a00e48ce-e56e-4ac1-8272-38983f0d8f99@150.241.87.196:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nh-pl-01.farmerly.cc&fp=chrome&pbk=cp947CBxZl6dHGM5epfaXvKyj7Gh3CVBnprViDFL6Rk&sid=2174c487a4c9664b&type=tcp&headerType=none#🇩🇪All9 | @BigSmoke_Config
 vless://a00e48ce-e56e-4ac1-8272-38983f0d8f99@150.241.87.196:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nh-pl-01.farmerly.cc&fp=chrome&pbk=cp947CBxZl6dHGM5epfaXvKyj7Gh3CVBnprViDFL6Rk&sid=2174c487a4c9664b&type=tcp&headerType=none#🇩🇪All¹ | @BigSmoke_Config
 vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:23202?mode=auto&security=reality&encryption=none&pbk=OfDHr_l4SrRA6CFtpaYKkAqZL8aJ6DIPtChiGFmevBE&type=xhttp&sni=www.sony.com&sid=64f13b45aaa7ff#@V2ray_confiig
@@ -501,5 +503,3 @@ vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@de2w5oeehlkqd7wq0i9cfhq87oe2lwd7b.n
 vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@de2w5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir:2083?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=play.google.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=de2xw5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir#@meliproxyy
 vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@de2w5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir:2083?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=play.google.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=de2xw5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir#Channel : @Daily_Configs
 vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@de2w5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir:2083?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=play.google.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=de2xw5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir#telegram @mtmvpn
-vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@de4w5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir:2083?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=play.google.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=de4xw5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir#@FarazV2ray
-vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@de4w5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir:2083?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=play.google.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=de4xw5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir#@V2ray_confiig
