@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://37857ebf-94bb-49a0-8ab9-548e64e57311@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#@v2ray313 کانالمون 🏆
+vless://37857ebf-94bb-49a0-8ab9-548e64e57311@wwww.qarvian.ir:443?encryption=none&security=tls&sni=google.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=azdddaiji5.global.ssl.fastly.net.&path=/&headers={  "Host": "azdddaiji5.global.ssl.fastly.net."}#🇩🇪All² | @BigSmoke_Config
 vless://37857ebf-94bb-49a0-8ab9-548e64e57311@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=azdddaiji5.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#@v2ray313 کانالمون ⚡
 vless://37857ebf-94bb-49a0-8ab9-548e64e57311@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=azdddaiji5.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#@v2ray313 کانالمون 🚀
 vless://37857ebf-94bb-49a0-8ab9-548e64e57311@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?TELEGRAM--CNETVPN?ed=2560&security=tls&encryption=none&insecure=0&host=azdddaiji5.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#@Cnetvpn 🇩🇪
@@ -501,5 +503,3 @@ vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.96.3:80?security=none&encry
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.97.3:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/WJwsI9Rdz0wyh3rH?ed=2560&sni=cxrolvpn.vipserver4.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (5)
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.97.3:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/I7f6VOnkgtdCosoK?ed=2560#Join Tel: @CxrolVPN (6)
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/flrSNTQ2nbV5eH6t?ed=2560&sni=cxrolvpn.vipserver4.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (4)
-vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/wtQnVPnbjKOmqP7b?ed=2560#Join Tel: @CxrolVPN (2)
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🇧🇷BR_1207_@Surfboardv2ray

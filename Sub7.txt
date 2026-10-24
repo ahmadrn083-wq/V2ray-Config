@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/wtQnVPnbjKOmqP7b?ed=2560#Join Tel: @CxrolVPN (2)
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🇧🇷BR_1207_@Surfboardv2ray
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#pass_net
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🇩🇪All¹ | @BigSmoke_Config
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🇩🇪optimized_by_@pass_net
@@ -501,5 +503,3 @@ vless://5db16cc8-23be-4b09-ade8-38b847a3c9cb@188.114.98.6:2095?path=/&security=&
 vless://5db16cc8-23be-4b09-ade8-38b847a3c9cb@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=italyma.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون 🌙
 vless://5db16cc8-23be-4b09-ade8-38b847a3c9cb@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=ukji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون 🍀
 vless://5db16cc8-23be-4b09-ade8-38b847a3c9cb@tamiiiiz.aryan-sport.ir:2095?path=/&security=&encryption=none&host=dr.aryan-sport.ir&type=httpupgrade#@v2ray313 کانالمون 🔥
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none#🇯🇵139741 | ⚡️Telegram = t.me/SOSkeyNET
-vless://5e0d4371-23c1-4f16-89db-99c9c055af94@ve9373773jsjdbshaz.hormozmobile10.ir:80?path=/bmi.ir&security=&encryption=mlkem768x25519plus.native.0rtt.Wg5TVfnlm0CabTFH0GXjIPTikGte0ijy4urzlGaNyj8&host=play-apps-features.googleusercontent.com&type=ws#@Tarkshodeh 🇧🇿

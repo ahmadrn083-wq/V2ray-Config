@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#Tel-@ProxyMtAlpha🍜 2
+vless://cb9bc521-77a2-4c23-9bbf-b8d5318e717d@201.34.147.184:443?mode=auto&path=/&security=reality&encryption=none&pbk=--pxBStu9Lk1PFAsYbzTg5vBZKXtzdcOlmrpw9pen1s&host=ads.x5.ru&fp=chrome&type=xhttp&sni=ads.x5.ru&sid=0812e28665a36091#@Shh_Proxy-New⁵
 vless://cba8674f-c167-4672-a6c8-97bdb7b52717@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://cba98ec5-9f00-4ada-a0ce-f490257af2ee@13.143.182.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=esti.fileconvertpro.ru&pbk=8PGoRfefKAWaX4N7rqWyIap71L6JOL15feshsAoOphM&sid=89a72356470b2478&type=tcp&headerType=none#vpnsal
 vless://cba98ec5-9f00-4ada-a0ce-f490257af2ee@13.143.182.175:443?security=reality&encryption=none&pbk=8PGoRfefKAWaX4N7rqWyIap71L6JOL15feshsAoOphM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=esti.fileconvertpro.ru&sid=89a72356470b2478#@Nexus_Panell چنل تلگرام
@@ -501,5 +503,3 @@ vless://e0454af2-6fe9-4983-a55d-05e1da202602@151.101.56.7:443?path=/&security=tl
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-2
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-5
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-1
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-11
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=/?TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@leviconfigs🪐-10

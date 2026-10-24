@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none#🇯🇵139741 | ⚡️Telegram = t.me/SOSkeyNET
+vless://5e0d4371-23c1-4f16-89db-99c9c055af94@ve9373773jsjdbshaz.hormozmobile10.ir:80?path=/bmi.ir&security=&encryption=mlkem768x25519plus.native.0rtt.Wg5TVfnlm0CabTFH0GXjIPTikGte0ijy4urzlGaNyj8&host=play-apps-features.googleusercontent.com&type=ws#@Tarkshodeh 🇧🇿
 vless://5e3f974b-06fc-4555-907a-6681391b7c17@186.246.19.79:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#🇵🇱 direct
 vless://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?security=reality&encryption=none&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&fp=chrome&type=grpc&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&sid=92c32de179e5d908#@v2raybaaz
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?path=/&security=none&encryption=none&type=ws#@hopev2ray💯
@@ -501,5 +503,3 @@ vless://799cab05-0f00-4a6b-9b5b-5485ebed5862@narcod-ping.numallaf.shop:47511?typ
 vless://79ccb156-bfc6-11f1-9811-525400d1d4f7@143.246.199.124:443?security=reality&encryption=none&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.blocket.se#🇸🇪198984 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7K8ckQ9Odjv5ya@185.138.89.162:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.heise.de&fp=chrome&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&sid=8a2a4eb0&type=tcp&headerType=none#🇵🇹PT-🚀@VPNine1
 vless://7K8ckQ9Odjv5ya@185.138.89.162:443?security=reality&encryption=none&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=8a2a4eb0#@VEGAAS_VPN 🇵🇹
-vless://7K8ckQ9Odjv5ya@185.138.89.162:443?security=reality&encryption=none&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=8a2a4eb0#@filembad
-vless://7K8ckQ9Odjv5ya@185.138.89.162:443?security=reality&encryption=none&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=8a2a4eb0#@tootffarangi🍓
