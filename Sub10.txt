@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=randomquaint.net&path=/api/v1/upload#🇩🇪All⁷ | @BigSmoke_Config
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?mode=auto&path=/api/v1/upload&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=randomquaint.net&fp=chrome&type=xhttp&allowInsecure=0&sni=randomquaint.net#YFZ 55 @Outline_Vpn
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?mode=auto&path=/api/v1/upload&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fitindoor.net&fp=chrome&type=xhttp&allowInsecure=0&sni=fitindoor.net#@ICV2RAY
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?mode=auto&path=/api/v1/upload&security=tls&alpn=h2,http/1.1&encryption=none&host=randomquaint.net&fp=chrome&type=xhttp&sni=randomquaint.net#@v2ray_phoenix
 vless://95b09be3-503f-4829-af4a-7e6d5a78f0e7@render.com:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wispy-feather-dbb4.gvcxxxcklnxx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wispy-feather-dbb4.gvcxxxcklnxx.workers.dev#@meliproxyy
@@ -503,3 +501,5 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=/?TELEGRAMv2ray_configs_pools&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#@v2ray_configs_pools 💐
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=/@Net2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#@Net2ray 🩸 4
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=/@Net2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#@v2ray_configs_pools 💐
+vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=&encryption=none&headerType=&type=tcp#🇫🇷139821 | ⚡️Telegram = t.me/SOSkeyNET
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#💫@ATOVPN گیگی

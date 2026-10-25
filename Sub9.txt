@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=c_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@vmesskhodam
-vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#11000@proxy_online_net
 vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#11015@proxy_online_net
 vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#11027@proxy_online_net
 vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#11071@proxy_online_net
@@ -503,3 +501,5 @@ vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.4:8443?security=reality&enc
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=randomquaint.net&path=/api/v1/upload#@V2ray_confiig
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=randomquaint.net&path=/api/v1/upload#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @AZARBAYJAB1
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=randomquaint.net&path=/api/v1/upload#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=randomquaint.net&path=/api/v1/upload#🇩🇪All⁷ | @BigSmoke_Config
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?mode=auto&path=/api/v1/upload&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=randomquaint.net&fp=chrome&type=xhttp&allowInsecure=0&sni=randomquaint.net#YFZ 55 @Outline_Vpn
